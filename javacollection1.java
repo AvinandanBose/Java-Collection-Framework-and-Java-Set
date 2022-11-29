@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Collection;
+import java.util.ArrayList;
 class javacollection1 {
 
     public static void main(String[] args) {
