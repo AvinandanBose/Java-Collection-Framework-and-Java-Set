@@ -9,9 +9,8 @@ This is all about Java Collection.
 Collection: It is the top of the collection hierarchy. It supports basic grouping of elements.
 
 ```
-
 <ul>
-
-<li> <h3> <a href = "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/javacollection1.java" > </a> </h3> </li>
-
+<h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/javacollection1.java" > Java Collection [Eg -1]</a></h3>
 </ul>
+
+
