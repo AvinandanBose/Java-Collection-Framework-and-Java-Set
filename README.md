@@ -55,8 +55,8 @@ Collection: It is the top of the collection hierarchy. It supports basic groupin
  
 ```Syntax
 
-That is we can create an instance of HashSet, ArrayList, TreeSet and LinkedList Class ,
-through the help of Collection interface.
+That is we can create an instance of HashSet, ArrayList, TreeSet 
+and LinkedList Class,through the help of Collection interface.
 
 
 ```
