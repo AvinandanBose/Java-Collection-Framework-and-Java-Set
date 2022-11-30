@@ -14,6 +14,7 @@ This is all about Java Collection.
   <li><h3>6.Sorted Set</h3> </li>
   <li><h3>7.Sorted Map</h3> </li>
   <li><h3>8.Queue</h3> </li>
+  <li><h3>9.Navigable Set</h3> </li>
 </ul>
 
 <h3> <ins>1. The Collection Interface </ins> </h3>
