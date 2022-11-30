@@ -117,7 +117,25 @@ graph TD;
   <td ></td>
 </tr>
 </table>  
-  
+
+<ul>
+<h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/setDemo.java" > Set→HashSet [Eg -1]</a></h3>
+<h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/setDemo1.java" >  Set→TreeSet  [Eg -2]</a></h3>
+
+
+```Syntax
+
+That is we can create an instance of TreeSet, HashSet,
+through the help of Set Interface.
+
+:HashSet:
+
+→It implements Set Interface.
+
+
+
+```
+</ul>
 
 </h3>
 </ul>
