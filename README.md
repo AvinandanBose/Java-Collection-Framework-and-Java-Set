@@ -34,4 +34,20 @@ Collection: It is the top of the collection hierarchy. It supports basic groupin
 <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/javacollection4.java" > Java Collection [Eg -4]</a></h3>
 </ul>
 
+<table>
+ <tr>
+    <th>Interface</th>
+    <th>Hash Table</th>
+    <th>Resizable Array</th> 
+   <th>Balanced Tree</th> 
+   <th>Linked List</th> 
+</tr> 
+<tr>
+  <td >Collection</td>
+  <td >HashSet</td> 
+  <td >ArrayList</td> 
+  <td >TreeSet</td>
+  <td >Linked List</td>
+</tr>
+</table>
 </ul>
