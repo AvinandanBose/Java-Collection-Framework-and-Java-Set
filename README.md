@@ -60,5 +60,17 @@ and LinkedList Class,through the help of Collection interface.
 
 
 ```
+
+```mermaid
+graph TD;
+    Collection-->Set;
+    Set-->HashSet;
+    Set-->SortedSet;
+    HashSet-->LinkedListSet;
+    SortedSet-->NavigableSet;
+    NavigableSet-->TreeSet;
+    
+```
+
 </h3>
 </ul>
