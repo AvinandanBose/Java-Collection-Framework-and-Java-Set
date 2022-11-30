@@ -91,6 +91,15 @@ NavigableSet:   It extends SortedSet to implement a Navigable Set.
   
 Tree Set:   It extends NavigableSet to implement a Tree Set.
 ```
+
+```mermaid
+graph TD;
+    
+    Set-->HashSet;
+    Set-->SortedSet;
+   
+    
+```
   
 
 </h3>
