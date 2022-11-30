@@ -50,4 +50,15 @@ Collection: It is the top of the collection hierarchy. It supports basic groupin
   <td >Linked List</td>
 </tr>
 </table>
+  
+<h3>  
+ 
+```Syntax
+
+That is we can create an instance of HashSet, ArrayList, TreeSet and LinkedList Class ,
+through the help of Collection interface.
+
+
+```
+</h3>
 </ul>
