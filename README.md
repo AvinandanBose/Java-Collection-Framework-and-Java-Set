@@ -129,11 +129,14 @@ That is we can create an instance of TreeSet, HashSet,
 through the help of Set Interface.
 
 :HashSet:
-
+___________
 →It implements Set Interface.
-
-
-
+→ Every elements entered are unique i.e. No duplicates.
+→ HashSet stores the elements by using a mechanism called hashing.
+→ HashSet allows null value.
+→ HashSet doesn't maintain the insertion order. 
+  Here, elements are inserted on the basis of their hashcode.
+  
 ```
 </ul>
 
