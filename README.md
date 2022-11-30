@@ -4,7 +4,7 @@ This is all about Java Collection.
 
 <h3> <i> java.util </i> →Package contains  the collection classes let us to group elements in various ways . The Collection Classes also define several methods that provide easier way of working with items . These classes are important , not just for their but because many other Java methods use or return objects of these classes such as the <i>ArrayList</i> and <i>HashMap</i> classes. Collection package added to JSE 1.2 Java SE 8 has significantly increased the power and streamlined the use of collection framework. </h3>
 
-<h3> <ins> The Collection Framework Interfaces </ins></h3>
+<h2> <ins> The Collection Framework Interfaces </ins></h2>
 <ul>
   <li><h3>1.Collection</h3> </li>
   <li><h3>2.Deque</h3> </li>
@@ -17,7 +17,7 @@ This is all about Java Collection.
   <li><h3>9.Navigable Set</h3> </li>
 </ul>
 
-<h3> <ins>1. The Collection Interface </ins> </h3>
+<h2> <ins>1. The Collection Interface </ins> </h2>
 
 <br>
   
@@ -61,6 +61,9 @@ and LinkedList Class,through the help of Collection interface.
 
 ```
 
+<h2> <ins> 2 . Sets </ins></h2>  
+  
+  
 ```mermaid
 graph TD;
     Collection-->Set;
@@ -71,6 +74,24 @@ graph TD;
     NavigableSet-->TreeSet;
     
 ```
+
+  ```Syntax
+
+Collection: It is the top of the collection hierarchy. It supports basic grouping of elements.
+  
+Set: It extends Collection to implement sets, in which all elements must be unique.
+  
+SortedSet: It extends Set to implement a sorted set.
+  
+HashSet:  It extends Set to implement a hash set.
+
+LinkedListSet:   It extends HashSet to implement a Linked List Set.
+
+NavigableSet:   It extends SortedSet to implement a Navigable Set.
+  
+Tree Set:   It extends NavigableSet to implement a Tree Set.
+```
+  
 
 </h3>
 </ul>
