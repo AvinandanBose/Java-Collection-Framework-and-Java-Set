@@ -96,10 +96,27 @@ Tree Set:   It extends NavigableSet to implement a Tree Set.
 graph TD;
     
     Set-->HashSet;
-    Set-->SortedSet;
+    Set-->TreeSet;
    
     
 ```
+  
+<table>
+ <tr>
+    <th>Interface</th>
+    <th>Hash Table</th>
+    <th>Resizable Array</th> 
+   <th>Balanced Tree</th> 
+   <th>Linked List</th> 
+</tr> 
+<tr>
+  <td >Set</td>
+  <td >HashSet</td> 
+  <td ></td> 
+  <td >TreeSet</td>
+  <td ></td>
+</tr>
+</table>  
   
 
 </h3>
