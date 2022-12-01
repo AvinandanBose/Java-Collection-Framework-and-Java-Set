@@ -200,6 +200,17 @@ HASH CODE OF C → 67 //ASCII CODE
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo4.java" > HashSet [Iterator]</a></h3>
     </ul>
+    
+```mermaid
+
+sequenceDiagram
+    
+  
+  java.lang.Object->>java.util.AbstractCollection: 
+  java.util.AbstractCollection->>java.util.AbstractSet: 
+  java.util.AbstractSet->>java.util.HashSet: 
+```
+
   </ul>
 </ul>
 
