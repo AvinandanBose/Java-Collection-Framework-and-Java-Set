@@ -184,6 +184,10 @@ HASH CODE OF C → 67 //ASCII CODE
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo.java" > HashSet [Add]</a></h3>
     </ul>
+    <li> <h3> 2. Remove </h3> </li>
+   <ul>
+     <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo1.java" > HashSet [Remove]</a></h3>
+    </ul>
   </ul>
 </ul>
 
