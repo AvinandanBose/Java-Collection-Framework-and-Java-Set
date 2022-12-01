@@ -145,6 +145,38 @@ ___________
 →TreeSet class maintains ascending order. 
 →TreeSet class contains unique elements only like HashSet.
 ```
+
+<h3> Calculation of HashCode  </h3>
+<ul>
+<li><h3> 1. Integers </h3> </li>
+<ul>
+<h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/hashcodeDemo1.java" > HashCode Of Integers [Eg -1]</a></h3>
+</ul>
+<li><h3> 2. Strings </h3> </li>
+<ul>
+<h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/hashcodeDemo2.java" > HashCode Of Strings [Eg -2]</a></h3>
+</ul>
+
+
+```Syntax
+
+:HASH CODE OF INTEGERS:
+
+HASH CODE OF 1 → 1
+HASH CODE OF 2 → 2
+HASH CODE OF 3 → 3
+
+                  ......etc.
+                  
+:HASH CODE OF STRINGS:
+
+HASH CODE OF A → 65 //ASCII CODE
+HASH CODE OF B → 66 //ASCII CODE
+HASH CODE OF C → 67 //ASCII CODE
+                    ......etc.
+
+```
+</ul>
 </ul>
 
 </h3>
