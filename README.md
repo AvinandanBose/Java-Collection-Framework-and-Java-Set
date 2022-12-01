@@ -196,6 +196,10 @@ HASH CODE OF C → 67 //ASCII CODE
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo3.java" > HashSet [Clone]</a></h3>
     </ul>
+     <li> <h3> 5. Iterator </h3> </li>
+   <ul>
+     <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo4.java" > HashSet [Iterator]</a></h3>
+    </ul>
   </ul>
 </ul>
 
