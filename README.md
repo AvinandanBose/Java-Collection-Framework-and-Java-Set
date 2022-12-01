@@ -146,7 +146,7 @@ ___________
 →TreeSet class contains unique elements only like HashSet.
 ```
 
-<h3> Calculation of HashCode  </h3>
+<h2> Calculation of HashCode  </h3>
 <ul>
 <li><h3> 1. Integers </h3> </li>
 <ul>
@@ -177,7 +177,16 @@ HASH CODE OF C → 67 //ASCII CODE
 
 ```
 </ul>
+  
+<h1>  HashSet Functionality:  </h1>
+ <ul>
+   <li> <h3> 1. Add </h3> </li>
+   <ul>
+     <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo.java" > HashSet [Add]</a></h3>
+    </ul>
+  </ul>
 </ul>
 
 </h3>
+
 </ul>
