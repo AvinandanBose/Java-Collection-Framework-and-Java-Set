@@ -137,6 +137,13 @@ ___________
 → HashSet doesn't maintain the insertion order. 
   Here, elements are inserted on the basis of their hashcode.
   
+:TreeSet:
+___________
+→It implements Set Interface.
+→TreeSet class access and retrieval times are quiet fast.
+→TreeSet class doesn't allow null element.
+→TreeSet class maintains ascending order. 
+→TreeSet class contains unique elements only like HashSet.
 ```
 </ul>
 
