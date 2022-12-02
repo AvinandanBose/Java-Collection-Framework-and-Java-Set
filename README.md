@@ -236,8 +236,8 @@ HASH CODE OF C → 67 //ASCII CODE
       Returns an iterator over the elements in this set. 
       The elements are returned in no particular order.
       
-      :Note :The double colon (::) operator, 
-      also known as method reference operator.:
+      Note: The double colon (::) operator, 
+      also known as method reference operator.
       
       →Double Colon Operator is used to call a method,
       by referring to it with the help of its class directly.
