@@ -231,7 +231,14 @@ HASH CODE OF C → 67 //ASCII CODE
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo4.java" > HashSet [Iterator]</a></h3>
      <ul>
-     <li><h3>a. HashSet [Iterator] → For Each Remaining</a></h3></li>
+     
+```Syntax
+      Returns an iterator over the elements in this set. The elements are returned in no particular order.
+      :Note :The double colon (::) operator, also known as method reference operator.:
+      →It is used to call a method by referring to it with the help of its class directly.
+````
+
+<li><h3>a. HashSet [Iterator] → For Each Remaining</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo5.java" > For Each Remaining</a></h3></li>
      </ul>
