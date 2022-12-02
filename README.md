@@ -176,6 +176,7 @@ HASH CODE OF C → 67 //ASCII CODE
                     ......etc.
 
 ```
+
 </ul>
   
 <h1>  HashSet Functionality:  </h1>
@@ -184,19 +185,49 @@ HASH CODE OF C → 67 //ASCII CODE
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo.java" > HashSet [Add]</a></h3>
     </ul>
-    <li> <h3> 2. Remove </h3> </li>
+    
+```Syntax
+      Adds the specified element to this set if it is not already present. 
+     More formally, adds the specified element e to this set if this set ,
+     contains no element e2 such that Objects.equals(e, e2). 
+     If this set already contains the element, the call leaves 
+     the set unchanged and returns false.     
+````
+
+    
+    
+<li> <h3> 2. Remove </h3> </li>
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo1.java" > HashSet [Remove]</a></h3>
     </ul>
-    <li> <h3> 3. Clear </h3> </li>
+    
+```Syntax
+      Removes the specified element from this set if it is present. 
+      More formally, removes an element e such that Objects.equals(o, e), 
+      if this set contains such an element. 
+      Returns true if this set contained the element.     
+````
+
+<li> <h3> 3. Clear </h3> </li>
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo2.java" > HashSet [Clear]</a></h3>
     </ul>
+ 
+ ```Syntax
+      Removes all of the elements from this set. 
+      The set will be empty after this call returns. 
+````
+    
    <li> <h3> 4. Clone </h3> </li>
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo3.java" > HashSet [Clone]</a></h3>
     </ul>
-     <li> <h3> 5. Iterator </h3> </li>
+    
+```Syntax
+      Returns a shallow copy of this HashSet instance: the elements themselves are not cloned.
+````    
+    
+<li> <h3> 5. Iterator </h3> </li>
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo4.java" > HashSet [Iterator]</a></h3>
      <ul>
