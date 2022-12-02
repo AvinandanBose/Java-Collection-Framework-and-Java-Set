@@ -211,6 +211,12 @@ HASH CODE OF C → 67 //ASCII CODE
      <li><h3>c. HashSet [Iterator] →Next</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo7.java" > Next</a></h3></li>
+       <ul>
+      <li><h3>Next.CompareTo</h3></li>
+         <ul>
+           <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo9.java" >Next.CompareTo</a></h3></li>
+         </ul>
+      </ul>
      </ul>
      <li><h3>d. HashSet [Iterator] →remove</a></h3></li>
      <ul>
