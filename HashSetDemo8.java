@@ -1,4 +1,5 @@
 import java.util.HashSet;
+import java.util.Iterator;
 
 public class HashSetDemo8 {
     public static void main(String[] args) {
@@ -10,11 +11,18 @@ public class HashSetDemo8 {
         System.out.println(set);
 
         try {
-           set.iterator().remove();
-           System.out.println(set);
-        } 
+            Iterator<String> iterator = set.iterator();
+            String s = "";
+            while (iterator.hasNext()) {
+                s = iterator.next();
+                if (s.equals("a")) {
+                    iterator.remove();
+                }
+            }
+            System.out.println(set);   
+        }
 
-         catch (Exception e) {
+        catch (Exception e) {
             System.out.println("Exception");
 
         }
