@@ -200,11 +200,11 @@ HASH CODE OF C → 67 //ASCII CODE
    <ul>
      <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo4.java" > HashSet [Iterator]</a></h3>
      <ul>
-     <li><h3>HashSet [Iterator] → For Each Remaining</a></h3></li>
+     <li><h3>a. HashSet [Iterator] → For Each Remaining</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo5.java" > For Each Remaining</a></h3></li>
      </ul>
-      <li><h3>HashSet [Iterator] → hasNext</a></h3></li>
+      <li><h3>b. HashSet [Iterator] → hasNext</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo6.java" > hasNext</a></h3></li>
      </ul>
