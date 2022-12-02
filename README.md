@@ -212,7 +212,7 @@ HASH CODE OF C → 67 //ASCII CODE
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo7.java" > Next</a></h3></li>
      </ul>
-     li><h3>c. HashSet [Iterator] →remove</a></h3></li>
+     <li><h3>c. HashSet [Iterator] →remove</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo8.java" > Remove</a></h3></li>
      </ul>
