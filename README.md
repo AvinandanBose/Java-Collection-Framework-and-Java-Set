@@ -233,7 +233,7 @@ HASH CODE OF C → 67 //ASCII CODE
      <ul>
      
 ```Syntax
-      Iterator: Returns an iterator over the elements in this set. 
+      Iterator: It iterates over the elements in the set. 
       The elements are returned in no particular order.
       
       Note: The double colon (::) operator, 
@@ -247,26 +247,61 @@ HASH CODE OF C → 67 //ASCII CODE
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo5.java" > For Each Remaining</a></h3></li>
      </ul>
-      <li><h3>b. HashSet [Iterator] → hasNext</a></h3></li>
+     
+```Syntax
+     Performs the given action for each remaining element,
+     until all elements have been processed or
+     the action throws an exception. Actions are performed,
+     in the order of iteration, if that order is specified. 
+     Exceptions thrown by the action are relayed to the caller.
+````
+
+<li><h3>b. HashSet [Iterator] → hasNext</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo6.java" > hasNext</a></h3></li>
      </ul>
-     <li><h3>c. HashSet [Iterator] →Next</a></h3></li>
+     
+```Syntax
+    Returns true if the iteration has more elements. 
+    (In other words, returns true if next would return ,
+    an element rather than throwing an exception.)
+```` 
+
+<li><h3>c. HashSet [Iterator] →Next</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo7.java" > Next</a></h3></li>
        <ul>
-      <li><h3>Next.CompareTo</h3></li>
+       
+```Syntax
+   Returns the next element in the iteration.
+````
+
+<li><h3>Next.CompareTo</h3></li>
          <ul>
            <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo9.java" >Next.CompareTo</a></h3></li>
          </ul>
-      </ul>
-     </ul>
-     <li><h3>d. HashSet [Iterator] →remove</a></h3></li>
+         
+```Syntax
+  Compares two Integer objects numerically.
+````
+
+</ul>
+</ul>
+     
+
+<li><h3>d. HashSet [Iterator] →remove</a></h3></li>
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo8.java" > Remove</a></h3></li>
      </ul>
-    </ul>
-    </ul>
+     
+```Syntax
+  Removes from the underlying collection the last element,
+  returned by this iterator (optional operation).
+  This method can be called only once per call to next.
+````
+
+</ul>
+</ul>
     
 ```mermaid
 
