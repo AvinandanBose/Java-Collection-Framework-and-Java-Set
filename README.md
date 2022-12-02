@@ -208,6 +208,10 @@ HASH CODE OF C → 67 //ASCII CODE
      <ul>
         <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo6.java" > hasNext</a></h3></li>
      </ul>
+     <li><h3>c. HashSet [Iterator] →Next</a></h3></li>
+     <ul>
+        <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo7.java" > Next</a></h3></li>
+     </ul>
     </ul>
     </ul>
     
