@@ -233,7 +233,7 @@ HASH CODE OF C → 67 //ASCII CODE
      <ul>
      
 ```Syntax
-      Returns an iterator over the elements in this set. 
+      Iterator: Returns an iterator over the elements in this set. 
       The elements are returned in no particular order.
       
       Note: The double colon (::) operator, 
