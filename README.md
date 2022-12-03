@@ -179,7 +179,7 @@ HASH CODE OF C → 67 //ASCII CODE
 
 </ul>
   
-<h1>  HashSet Functionality:  </h1>
+<h1 align="center">  HashSet Functionality:  </h1>
  <ul>
    <li> <h3> 1. Add </h3> </li>
    <ul>
