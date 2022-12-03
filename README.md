@@ -375,6 +375,16 @@ sequenceDiagram
  
 </ul>
 
+<h1>Object[java.lang.Object] </h1>
+<ul>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/ObjectSetDemo.java" > Object[java.lang.Object]-1</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/ObjectSetDemo1.java" > Object[java.lang.Object]-2</a></h3></li>
+
+```Syntax
+ We can create instance of HashSet from Object → [java.lang.Object].
+ ````
+ 
+</ul>
 
 
   </ul>
