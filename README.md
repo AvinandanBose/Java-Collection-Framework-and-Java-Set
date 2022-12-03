@@ -353,6 +353,7 @@ sequenceDiagram
   java.util.AbstractCollection->>java.util.AbstractSet: 
   java.util.AbstractSet->>java.util.HashSet: 
 ```
+
 <h1>Abstract Set </h1>
 <ul>
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/AbstractSetDemo.java" > AbstractSet</a></h3></li>
@@ -362,6 +363,19 @@ sequenceDiagram
  ````
  
 </ul>
+
+
+<h1>Abstract Collection </h1>
+<ul>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/AbstractCollectionDemo.java" > Abstract Collection</a></h3></li>
+
+```Syntax
+ We can create instance of HashSet from Abstract Collection.
+ ````
+ 
+</ul>
+
+
 
   </ul>
 </ul>
