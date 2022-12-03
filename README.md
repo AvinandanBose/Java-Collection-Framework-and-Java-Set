@@ -360,6 +360,10 @@ sequenceDiagram
 
 ```Syntax
  We can create instance of HashSet from Abstract Set.
+ AbstractSet class in Java is a part of the Java Collection Framework,
+ which implements the Collection interface and extends,
+ the AbstractCollection class. It provides a skeletal implementation,
+ of the Set interface. 
  ````
  
 </ul>
@@ -371,6 +375,11 @@ sequenceDiagram
 
 ```Syntax
  We can create instance of HashSet from Abstract Collection.
+ The AbstractCollection class in Java is a part of the ,
+ Java Collection Framework and implements the Collection interface. 
+ It is used to implement an unmodifiable collection, 
+ for which one needs to only extend this AbstractCollection Class 
+ and implement only the iterator and the size methods. 
  ````
  
 </ul>
