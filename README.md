@@ -301,6 +301,10 @@ HASH CODE OF C → 67 //ASCII CODE
 ````
 
 </ul>
+<li><h3>6. HashSet →[Union]AddAll</h3></li>
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo10.java" > [Union]AddAll</a></h3></li>
+</ul>
 </ul>
     
 ```mermaid
