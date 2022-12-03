@@ -305,10 +305,42 @@ HASH CODE OF C → 67 //ASCII CODE
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo10.java" > [Union]AddAll</a></h3></li>
 </ul>
+
+```Syntax
+ Adds all of the elements in the specified collection to this ,
+ set if they're not already present (optional operation). 
+ If the specified collection is also a set, the addAll operation,
+ effectively modifies this set so that its value is the union of the two sets. 
+ The behavior of this operation is undefined,
+ if the specified collection is modified while the operation is in progress.
+````
+
 <li><h3>7. HashSet →[Intersection]RetainAll</h3></li>
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo11.java" > [Intersection]RetainAll</a></h3></li>
 </ul>
+
+```Syntax
+ Retains only the elements in this collection that are contained,
+ in the specified collection (optional operation)[Intersection]. In other words, 
+ removes from this collection all of its elements that are not ,
+ contained in the specified collection.
+````
+
+<li><h3>8. HashSet →Spliterator</h3></li>
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo12.java" > Spliterator</a></h3></li>
+</ul>
+
+```Syntax
+ Returns a Spliterator over the elements in this set.
+ Creates a late-binding and fail-fast Spliterator,
+ over the elements in this set.A late-binding Spliterator,
+ binds to the source of elements means HashSet,
+ at the point of first traversal, first split,
+ or first query for estimated size, 
+ rather than at the time the Spliterator is created.
+ ````
 
 </ul>
     
