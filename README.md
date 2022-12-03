@@ -341,6 +341,19 @@ HASH CODE OF C → 67 //ASCII CODE
  or first query for estimated size, 
  rather than at the time the Spliterator is created.
  ````
+<li><h3>9. HashSet →Contains</h3></li>
+
+<li><h3>10. HashSet →ContainsAll</h3></li>
+
+<li><h3>11. HashSet →RemoveAll</h3></li>
+
+<li><h3>12. HashSet →RemoveIf</h3></li>
+
+<li><h3>13. HashSet →Stream</h3></li>
+
+<li><h3>14. HashSet →ParallelStream</h3></li>
+
+<li><h3>15. HashSet →toArray</h3></li>
 
 </ul>
     
