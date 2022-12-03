@@ -343,17 +343,25 @@ HASH CODE OF C → 67 //ASCII CODE
  ````
 <li><h3>9. HashSet →Contains</h3></li>
 
-<li><h3>10. HashSet →ContainsAll</h3></li>
+<li><h3>10. HashSet →Size</h3></li>
 
-<li><h3>11. HashSet →RemoveAll</h3></li>
+<li><h3>11. HashSet →isEmpty</h3></li>
 
-<li><h3>12. HashSet →RemoveIf</h3></li>
+<li><h3>12. HashSet →ContainsAll</h3></li>
 
-<li><h3>13. HashSet →Stream</h3></li>
+<li><h3>13. HashSet →RemoveAll</h3></li>
 
-<li><h3>14. HashSet →ParallelStream</h3></li>
+<li><h3>14. HashSet →RemoveIf</h3></li>
 
-<li><h3>15. HashSet →toArray</h3></li>
+<li><h3>15. HashSet →Stream</h3></li>
+
+<li><h3>16. HashSet →ParallelStream</h3></li>
+
+<li><h3>17. HashSet →toArray</h3></li>
+
+<li><h3>18. HashSet →toString</h3></li>
+
+
 
 </ul>
     
