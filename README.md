@@ -305,6 +305,11 @@ HASH CODE OF C → 67 //ASCII CODE
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo10.java" > [Union]AddAll</a></h3></li>
 </ul>
+<li><h3>7. HashSet →[Intersection]RetainAll</h3></li>
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo11.java" > [Intersection]RetainAll</a></h3></li>
+</ul>
+
 </ul>
     
 ```mermaid
