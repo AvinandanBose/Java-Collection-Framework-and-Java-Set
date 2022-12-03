@@ -343,24 +343,58 @@ HASH CODE OF C → 67 //ASCII CODE
  ````
 <li><h3>9. HashSet →Contains</h3></li>
 
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo13.java" > Contains</a></h3></li>
+</ul>
+
 <li><h3>10. HashSet →Size</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo20.java" > Size</a></h3></li>
+</ul>
 
 <li><h3>11. HashSet →isEmpty</h3></li>
 
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo21.java" >isEmpty</a></h3></li>
+</ul>
+
 <li><h3>12. HashSet →ContainsAll</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo14.java" > ContainsAll</a></h3></li>
+</ul>
+
 
 <li><h3>13. HashSet →RemoveAll</h3></li>
 
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15.java" > RemoveAll</a></h3></li>
+</ul>
+
 <li><h3>14. HashSet →RemoveIf</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo16.java" > RemoveIf</a></h3></li>
+</ul>
 
 <li><h3>15. HashSet →Stream</h3></li>
 
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo17.java" > Stream</a></h3></li>
+</ul>
+
 <li><h3>16. HashSet →ParallelStream</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo18.java" > ParallelStream</a></h3></li>
+</ul>
 
 <li><h3>17. HashSet →toArray</h3></li>
 
-<li><h3>18. HashSet →toString</h3></li>
-
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo19.java" > toArray</a></h3></li>
+</ul>
 
 
 </ul>
