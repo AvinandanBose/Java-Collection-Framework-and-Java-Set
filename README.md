@@ -469,7 +469,7 @@ It is allowable for this method to return a sequential stream.
 
 From: java.util.Collection
 
-Def:Returns an array containing all of the elements in this collection; 
+Def: Returns an array containing all of the elements in this collection; 
 the runtime type of the returned array is that of the specified array. 
 If the collection fits in the specified array, it is returned therein. 
 Otherwise, a new array is allocated with the runtime type of the specified array 
