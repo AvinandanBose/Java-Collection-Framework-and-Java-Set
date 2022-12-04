@@ -347,11 +347,21 @@ HASH CODE OF C → 67 //ASCII CODE
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo13.java" > Contains</a></h3></li>
 </ul>
 
+```Syntax
+ Returns true if this set contains the specified element. 
+ More formally, returns true if and only if this set contains,
+ an element e such that Objects.equals(o, e).
+ ````
+ 
 <li><h3>10. HashSet →Size</h3></li>
 
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo20.java" > Size</a></h3></li>
 </ul>
+
+```Syntax
+ Returns the number of elements in this set (its cardinality).
+ ````
 
 <li><h3>11. HashSet →isEmpty</h3></li>
 
@@ -359,11 +369,25 @@ HASH CODE OF C → 67 //ASCII CODE
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo21.java" >isEmpty</a></h3></li>
 </ul>
 
+```Syntax
+ Returns true if this set contains no elements.
+ ````
+
+<h2>  </h2>
+
 <li><h3>12. HashSet →ContainsAll</h3></li>
 
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo14.java" > ContainsAll</a></h3></li>
 </ul>
+
+```Syntax
+From: java.util.AbstractCollection 
+
+Def: Returns true if this collection contains all of the elements,
+in the specified collection.
+
+````
 
 
 <li><h3>13. HashSet →RemoveAll</h3></li>
@@ -372,11 +396,39 @@ HASH CODE OF C → 67 //ASCII CODE
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15.java" > RemoveAll</a></h3></li>
 </ul>
 
+```Syntax
+
+From: java.util.AbstractSet
+
+Def: Removes from this set all of its elements ,
+that are contained in the specified collection (optional operation). 
+If the specified collection is also a set, this operation effectively modifies,
+this set so that its value is the asymmetric set difference of the two sets.
+
+This implementation determines which is the smaller of this set and the specified collection, 
+by invoking the size method on each. If this set has fewer elements, then the implementation ,
+iterates over this set, checking each element returned by the iterator,
+in turn to see if it is contained in the specified collection.
+
+
+````
+
 <li><h3>14. HashSet →RemoveIf</h3></li>
 
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo16.java" > RemoveIf</a></h3></li>
 </ul>
+
+```Syntax
+
+From: java.util.Collection
+
+Def: Removes all of the elements of this collection that satisfy the given predicate. 
+Errors or runtime exceptions thrown during iteration or ,
+by the predicate are relayed to the caller.
+
+
+````
 
 <li><h3>15. HashSet →Stream</h3></li>
 
@@ -384,11 +436,28 @@ HASH CODE OF C → 67 //ASCII CODE
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo17.java" > Stream</a></h3></li>
 </ul>
 
+```Syntax
+
+From: java.util.Collection
+
+Def: Returns a sequential Stream with this collection as its source.
+
+````
+
 <li><h3>16. HashSet →ParallelStream</h3></li>
 
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo18.java" > ParallelStream</a></h3></li>
 </ul>
+
+```Syntax
+
+From: java.util.Collection
+
+Def: Returns a possibly parallel Stream with this collection as its source. 
+It is allowable for this method to return a sequential stream.
+
+````
 
 <li><h3>17. HashSet →toArray</h3></li>
 
@@ -396,6 +465,19 @@ HASH CODE OF C → 67 //ASCII CODE
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo19.java" > toArray</a></h3></li>
 </ul>
 
+```Syntax
+
+From: java.util.Collection
+
+Def:Returns an array containing all of the elements in this collection; 
+the runtime type of the returned array is that of the specified array. 
+If the collection fits in the specified array, it is returned therein. 
+Otherwise, a new array is allocated with the runtime type of the specified array 
+and the size of this collection.
+
+````
+
+<h2>  </h2>
 
 </ul>
     
@@ -455,5 +537,5 @@ sequenceDiagram
 </ul>
 
 </h3>
-
+<h1 align="center">  TreeSet Functionality:  </h1>
 </ul>
