@@ -516,6 +516,9 @@ Def: Returns a sequential Stream with this collection as its source.
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo18.java" > ParallelStream</a></h3></li>
 </ul>
 
+
+
+
 ```Syntax
 
 From: java.util.Collection
@@ -524,6 +527,7 @@ Def: Returns a possibly parallel Stream with this collection as its source.
 It is allowable for this method to return a sequential stream.
 
 ````
+<h3> <i><ins>Note</ins>:Parallel Stream has similar functions like Streams. </i></h3> 
 
 <li><h3>17. HashSet →toArray</h3></li>
 
