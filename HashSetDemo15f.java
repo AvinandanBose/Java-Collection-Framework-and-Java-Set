@@ -15,10 +15,10 @@ public class HashSetDemo15f {
         set2.add("b");
         set2.add("C");
         set2.add("c");
-        boolean b = set2.stream().noneMatch(s -> s == "D");
-        boolean c = set2.stream().noneMatch(s -> s == "A");
-        System.out.println(b);
-        System.out.println(c);
+        set1.stream().spliterator().tryAdvance(s -> System.out.println(s));
+        set2.stream().spliterator().tryAdvance(s -> System.out.println(s));
+
+        
 
     }
 }
