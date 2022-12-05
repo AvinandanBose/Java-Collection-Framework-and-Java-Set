@@ -434,6 +434,8 @@ by the predicate are relayed to the caller.
 
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo17.java" > Stream</a></h3></li>
+  
+
 </ul>
 
 ```Syntax
@@ -443,6 +445,70 @@ From: java.util.Collection
 Def: Returns a sequential Stream with this collection as its source.
 
 ````
+<ul>
+<ul>
+<li><h3>1. flatMapToDouble/Long/Int</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15a.java" > flatMapToDouble/Long/Int</a></h3></li>
+</ul>
+<li><h3>2. mapToDouble/Long/Int</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15aa.java" > mapToDouble/Long/Int</a></h3></li>
+</ul>
+<li><h3>3. collect(Collectors.toMap())</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15b.java" >collect(Collectors.toMap())</a></h3></li>
+</ul>
+<li><h3>4. allMatch</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15c.java" >allMatch</a></h3></li>
+</ul>
+<li><h3>5. anyMatch</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15d.java" >anyMatch</a></h3></li>
+</ul>
+<li><h3>6. noneMatch</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15e.java" >noneMatch</a></h3></li>
+</ul>
+<li><h3>7. dropWhile</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15g.java" >dropWhile</a></h3></li>
+</ul>
+<li><h3>8. distinct</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15h.java" >distinct</a></h3></li>
+</ul>
+<li><h3>9. spliterator  </h3></li>
+<ul>
+<li><h3>9.a. spliterator().hasCharacteristics(Spliterator.ORDERED/DISTINCT/SORTED/SIZED/SUBSIZED/NONNULL/IMMUTABLE/CONCURRENT)  </h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15i.java" >spliterator().hasCharacteristics()</a></h3></li>
+</ul>
+<li><h3>9.b. spliterator().tryAdvance()  </h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15f.java" >spliterator().tryAdvance()</a></h3></li>
+</ul>
+</ul>
+<li><h3>10. iterator  </h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15j.java" >iterator</a></h3></li>
+</ul>
+<li><h3>11. isParallel </h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15k.java" >isParallel</a></h3></li>
+</ul>
+<li><h3>12. findFirst </h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15l.java" >findFirst</a></h3></li>
+</ul>
+
+<li><h3>13. filter</h3></li>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo15m.java" >filter</a></h3></li>
+</ul>
+</ul>
+</ul>
 
 <li><h3>16. HashSet →ParallelStream</h3></li>
 
