@@ -684,7 +684,7 @@ sequenceDiagram
  It returns the Floor value of the Float Value ,entered in the Floor function.
  ````
  
- <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo6.java" >Sub Set</a></h3></li>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo6.java" >Sub Set[Sorted Set Interface]</a></h3></li>
  
  ```Syntax
  Implemented From : java.util.SortedSet
