@@ -664,4 +664,16 @@ sequenceDiagram
 
 <h3> Continuing...: As TreeSet implements Set , Navigable Set  and SortedSet interface , hence it uses  functions of Set , NavigableSet and SortedSet interface. </h3>
 
+<h3> Extras </h3>
+<ul>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo4.java" >Ceiling</a></h3></li>
+  
+```Syntax
+ It takes Float value in the Function.
+ Returns the least element in this set greater than or equal to the given element, 
+ or null if there is no such element. 
+ ````
+  
+</ul>
+
 </ul>
