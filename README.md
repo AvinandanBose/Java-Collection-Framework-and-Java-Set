@@ -618,7 +618,7 @@ sequenceDiagram
   java.util.AbstractCollection->>java.util.AbstractSet: 
   java.util.AbstractSet->>java.util.TreeSet: 
 ```
-<h3> Def: Java TreeSet class implements the Set interface that uses a tree for storage. It inherits AbstractSet class and implements the NavigableSet interface. The objects of the TreeSet class are stored in ascending order. </h3>
+<h3> Def: Java TreeSet class implements the Set interface that uses a tree for storage. It inherits AbstractSet class and implements the NavigableSet interface and SortedSet interface. The objects of the TreeSet class are stored in ascending order. </h3>
 
 <table>
  <tr>
@@ -641,6 +641,13 @@ sequenceDiagram
   <td >TreeSet</td>
   <td ></td>
 </tr>
+</tr>
+ <td >SortedSet</td>
+  <td ></td> 
+  <td ></td> 
+  <td >TreeSet</td>
+  <td ></td>
+</tr>
 </table>  
 
 <ul>
@@ -654,6 +661,6 @@ sequenceDiagram
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo.java" > Tree Set Functions-1(From HashSet)</a></h3></li>
 </ul>
 
-<h3> Continuing...: As TreeSet implements Set and Navigable Set interface both , hence it uses both functions of Set as well as NavigableSet. </h3>
+<h3> Continuing...: As TreeSet implements Set , Navigable Set  and SortedSet interface , hence it uses  functions of Set , NavigableSet and SortedSet interface. </h3>
 
 </ul>
