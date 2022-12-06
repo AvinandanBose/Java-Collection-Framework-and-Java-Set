@@ -653,6 +653,7 @@ sequenceDiagram
 <ul>
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo1.java" > NavigableSet→TreeSet</a></h3></li>
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo2.java" > Set→TreeSet</a></h3></li>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo3.java" >SortedSet→TreeSet</a></h3></li>
 </ul>
 
 <h3> Continuing...: Java TreeSet class implements most of the functions that Hash Set uses as given below: </h3>
