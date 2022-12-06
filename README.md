@@ -635,6 +635,12 @@ sequenceDiagram
   <td >TreeSet</td>
   <td ></td>
 </tr>
+ <td >NavigableSet</td>
+  <td ></td> 
+  <td ></td> 
+  <td >TreeSet</td>
+  <td ></td>
+</tr>
 </table>  
 
 <h3> Continuing...: Java TreeSet class implements most of the functions that Hash Set uses as given below: </h3>
@@ -643,5 +649,6 @@ sequenceDiagram
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo.java" > Tree Set Functions-1</a></h3></li>
 </ul>
 
+<h3> Continuing...: As TreeSet implements Set and Navigable Set interface both , hence it uses both functions of Set as well as NavigableSet. </h3>
 
 </ul>
