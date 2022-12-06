@@ -672,6 +672,7 @@ sequenceDiagram
  It takes Float value in the Function.
  Returns the least element in this set greater than or equal to the given element, 
  or null if there is no such element. 
+ It returns the Ceil value of the Float Value ,entered in the ceiling function.
  ````
   
 </ul>
