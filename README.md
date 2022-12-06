@@ -664,7 +664,7 @@ sequenceDiagram
 
 <h3> Continuing...: As TreeSet implements Set , Navigable Set  and SortedSet interface , hence it uses  functions of Set , NavigableSet and SortedSet interface. </h3>
 
-<h3> Extras </h3>
+<h3><i><ins> Extras<ins></i> </h3>
 <ul>
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo4.java" >Ceiling</a></h3></li>
   
