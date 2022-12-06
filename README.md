@@ -674,6 +674,26 @@ sequenceDiagram
  or null if there is no such element. 
  It returns the Ceil value of the Float Value ,entered in the ceiling function.
  ````
+ 
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo5.java" >Floor</a></h3></li>
+ 
+ ```Syntax
+ It takes Float value in the Function.
+ Returns the greatest element in this set less than or equal to the given element, 
+ or null if there is no such element. 
+ It returns the Floor value of the Float Value ,entered in the Floor function.
+ ````
+ 
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo6.java" >Sub Set</a></h3></li>
+ 
+ ```Syntax
+ Implemented From : java.util.SortedSet
+ It returns Sub Set i.e. From a Starting Element to the Last Element.
+ i.e. if Set = [1,2,3,4,5,6];
+ And Subset :→ From Element : 2 
+ And To Element: 6
+ IT will return set: [3,4,5]
+ ````
   
 </ul>
 
