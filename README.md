@@ -694,6 +694,24 @@ sequenceDiagram
  And To Element: 6
  IT will return set: [3,4,5]
  ````
+ 
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo7.java" >Sub Set[Navigable Set Interface]</a></h3></li>
+ 
+ ```Syntax
+ Implemented From : java.util.NavigableSet
+ It returns Sub Set i.e. From a Starting Element to the Last Element.
+ i.e. if Set = [1,2,3,4,5,6];
+ And Subset :→ From Element : 2 , true
+ And To Element: 6 , false
+ IT will return set: [2,3,4,5]
+ 
+ Similarly:
+ 
+Subset :→ From Element : 2 , false
+And To Element: 6 , false
+IT will return set: [3,4,5]
+ 
+ ````
   
 </ul>
 
