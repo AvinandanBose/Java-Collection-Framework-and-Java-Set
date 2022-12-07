@@ -684,6 +684,29 @@ sequenceDiagram
  It returns the Floor value of the Float Value ,entered in the Floor function.
  ````
  
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo13.java" >Higher And Lower</a></h3></li>
+ 
+ ```Syntax
+ It takes Float value in the Function.
+ 
+ :Higher:
+ ----------------
+ Higher Func: Returns the greatest element in the Set corresponding to the number set in Higher Function.
+ Where, the number set in the Function must be present in the given set.
+ Set: [50.58 , 20.78, 30.65, 10.78, 50.98, 60.6530.65) ]
+ Higher: set.higher(30.65) = 50.58
+ 
+ 
+ :Lower:
+ ----------------
+ Lower Func: Returns the lowest element in the Set corresponding to the number set in Lower Function.
+ Where, the number set in the Function must be present in the given set.
+ Set: [50.58 , 20.78, 30.65, 10.78, 50.98, 60.6530.65) ]
+ Lower: set.lower(30.65) = 20.78
+ 
+ ````
+ 
+ <h2> </h2>
  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo6.java" >Sub Set[Sorted Set Interface]</a></h3></li>
  
  ```Syntax
@@ -776,7 +799,7 @@ Implemented From : java.util.NavigableSet
  IT will return set: [1,2,3,4,5,6]
  
  ````
-  
+  <h2> </h2> 
 </ul>
 
 </ul>
