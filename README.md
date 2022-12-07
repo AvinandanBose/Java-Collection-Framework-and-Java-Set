@@ -733,6 +733,49 @@ IT will return set: [3,4,5]
  IT will return set: [1,2,3,4,5]
  
  ````
+ 
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo11.java" >Tail Set[Navigable Set Interface]</a></h3></li>
+ 
+ ```Syntax
+ Implemented From : java.util.NavigableSet
+ It returns Set from a Starting Element set to TailSet function if Boolean Inclusive set to True,
+ Else returns Set from a Starting Element set to TailSet function except the Starting Element ,
+ if Boolean Inclusive set to False.
+ 
+ i.e. if Set = [1,2,3,4,5,6];
+ And tailset :→ From Element : 2
+ And inclusive : true
+ IT will return set: [2,3,4,5,6]
+ 
+ Else:
+ 
+ tailset :→ From Element : 2
+ And inclusive : false
+ IT will return set: [3,4,5,6]
+ 
+ ````
+ 
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo12.java" >Head Set[Navigable Set Interface]</a></h3></li>
+ 
+ ```Syntax
+Implemented From : java.util.NavigableSet
+ It returns Set upto a Ending Element but not the Ending Element set to HeadSet function,
+ if Boolean Inclusive set to True,
+ Else It returns Set upto a Ending Element with the Ending Element set to HeadSet function,
+ if Boolean Inclusive set to False.
+ 
+ i.e. if Set = [1,2,3,4,5,6];
+ And HeadSet :→ To Element : 6
+ And inclusive : True
+ IT will return set: [1,2,3,4,5]
+ 
+ Else:
+ 
+ tailset :→ To Element : 6
+ And inclusive : false
+ IT will return set: [1,2,3,4,5,6]
+ 
+ ````
   
 </ul>
 
