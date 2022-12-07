@@ -693,7 +693,7 @@ sequenceDiagram
  ----------------
  Higher Func: Returns the greatest element in the Set corresponding to the number set in Higher Function.
  Where, the number set in the Function must be present in the given set.
- Set: [50.58 , 20.78, 30.65, 10.78, 50.98, 60.6530.65) ]
+ Set: [50.58 , 20.78, 30.65, 10.78, 50.98, 60.65,30.65) ]
  Higher: set.higher(30.65) = 50.58
  
  
@@ -701,7 +701,7 @@ sequenceDiagram
  ----------------
  Lower Func: Returns the lowest element in the Set corresponding to the number set in Lower Function.
  Where, the number set in the Function must be present in the given set.
- Set: [50.58 , 20.78, 30.65, 10.78, 50.98, 60.6530.65) ]
+ Set: [50.58 , 20.78, 30.65, 10.78, 50.98, 60.65,30.65) ]
  Lower: set.lower(30.65) = 20.78
  
  ````
