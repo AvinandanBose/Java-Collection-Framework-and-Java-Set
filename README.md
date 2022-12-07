@@ -712,6 +712,27 @@ And To Element: 6 , boolean toInclusive : false
 IT will return set: [3,4,5]
  
  ````
+ 
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo9.java" >Tail Set[Sorted Set Interface]</a></h3></li>
+ 
+ ```Syntax
+ Implemented From : java.util.SortedSet
+ It returns Set from a Starting Element set to TailSet function.
+ i.e. if Set = [1,2,3,4,5,6];
+ And tailset :→ From Element : 2 
+ IT will return set: [2,3,4,5,6]
+ ````
+ 
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo10.java" >Head Set[Sorted Set Interface]</a></h3></li>
+ 
+ ```Syntax
+ Implemented From : java.util.SortedSet
+ It returns Set upto a Ending Element but not the Ending Element set to HeadSet function.
+ i.e. if Set = [1,2,3,4,5,6];
+ And To Element: 6 ,
+ IT will return set: [1,2,3,4,5]
+ 
+ ````
   
 </ul>
 
