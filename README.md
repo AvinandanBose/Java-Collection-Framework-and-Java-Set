@@ -713,8 +713,32 @@ sequenceDiagram
  It has all functions like it have in Iterator i.e. CompareTo, Next , hasNext . 
  
  ````
+  
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo15.java" >First And Last</a></h3></li>
+  
+  ```Syntax
  
+ First: Returns first (lowest)element in the set.
+  i.e. set = [2,3,4,1,5,6] , then it will return 1.
  
+ Last: Returns last (highest)element in the set.
+ i.e. set = [2,3,4,1,5,7,6] , then it will return 7.
+ ````
+  
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo16.java" >Poll First And Poll Last</a></h3></li>
+  
+  ```Syntax
+ 
+ Poll First: Retrieves and removes the first (lowest) element, or returns null if this set is empty.
+  i.e. set = [2,3,4,1,5,6] , then it will return 1.
+  And set will be : [2,3,4,5,6]
+ 
+ Poll Last: Retrieves and removes the last (highest) element, or returns null if this set is empty.
+ i.e. set = [2,3,4,1,5,7,6] , then it will return 7.
+   And set will be : [2,3,4,1,5,6]
+ ````
+ 
+ <h2> </h2>
  <h2> </h2>
  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo6.java" >Sub Set[Sorted Set Interface]</a></h3></li>
  
@@ -809,6 +833,7 @@ Implemented From : java.util.NavigableSet
  
  ````
   <h2> </h2> 
+   <h2> </h2>
 </ul>
 
 </ul>
