@@ -708,7 +708,7 @@ sequenceDiagram
  Similarly:
  
 Subset :→ From Element : 2 , boolean fromInclusive : false
-And To Element: 6 , boolean toInclusive : false false
+And To Element: 6 , boolean toInclusive : false
 IT will return set: [3,4,5]
  
  ````
