@@ -701,14 +701,14 @@ sequenceDiagram
  Implemented From : java.util.NavigableSet
  It returns Sub Set i.e. From a Starting Element to the Last Element.
  i.e. if Set = [1,2,3,4,5,6];
- And Subset :→ From Element : 2 , true
- And To Element: 6 , false
+ And Subset :→ From Element : 2 , boolean fromInclusive : true
+ And To Element: 6 ,  boolean toInclusive : false
  IT will return set: [2,3,4,5]
  
  Similarly:
  
-Subset :→ From Element : 2 , false
-And To Element: 6 , false
+Subset :→ From Element : 2 , boolean fromInclusive : false
+And To Element: 6 , boolean toInclusive : false false
 IT will return set: [3,4,5]
  
  ````
