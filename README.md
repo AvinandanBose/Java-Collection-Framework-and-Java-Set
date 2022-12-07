@@ -705,6 +705,15 @@ sequenceDiagram
  Lower: set.lower(30.65) = 20.78
  
  ````
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo14.java" >Descending Iterator</a></h3></li>
+ 
+ ```Syntax
+ 
+ Descending Iterator: Returns an iterator over the elements in this set in descending order.
+ It has all functions like it have in Iterator i.e. CompareTo, Next , hasNext . 
+ 
+ ````
+ 
  
  <h2> </h2>
  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo6.java" >Sub Set[Sorted Set Interface]</a></h3></li>
@@ -718,7 +727,7 @@ sequenceDiagram
  IT will return set: [3,4,5]
  ````
  
-  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo7.java" >Sub Set[Navigable Set Interface]</a></h3></li>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo7.java" >Sub Set[Navigable Set Interface]</a></h3></li>
  
  ```Syntax
  Implemented From : java.util.NavigableSet
@@ -736,7 +745,7 @@ IT will return set: [3,4,5]
  
  ````
  
-  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo9.java" >Tail Set[Sorted Set Interface]</a></h3></li>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo9.java" >Tail Set[Sorted Set Interface]</a></h3></li>
  
  ```Syntax
  Implemented From : java.util.SortedSet
