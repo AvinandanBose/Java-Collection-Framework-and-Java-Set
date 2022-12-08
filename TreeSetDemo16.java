@@ -20,9 +20,19 @@ public class TreeSetDemo16 {
         ts1.add(57.98f);
         ts1.add(99.65f);
 
-        System.out.println(ts.pollFirst());
-        System.out.println(ts);
-        System.out.println(ts1.pollLast());
-        System.out.println(ts1);                                   
+      
+    ts1.descendingSet().forEach(System.out::println);
+    ts1.descendingSet().forEach(s -> System.out.println(s));
+
+    TreeSet<Float> ts2 = new TreeSet<>();
+    for (int i = 0; i < ts1.size(); i++) {
+        ts1.descendingSet().forEach(s -> ts2.add(s));
+        ts2.addAll(ts1.descendingSet());
+        
+
+    }
+    
+    System.out.println(ts2);
+
     }
 }
