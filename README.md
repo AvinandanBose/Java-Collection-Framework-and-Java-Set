@@ -873,4 +873,15 @@ Greatest Element to Lowest Element.
 </ul>
 <h1></h1>
 <h1 align="center">  LinkedHashSet </h1>
+<h3>This class extends HashSet, but adds no members of its own. </h3>
 
+```mermaid
+
+sequenceDiagram
+    
+  
+  java.lang.Object->>java.util.AbstractCollection: 
+  java.util.AbstractCollection->>java.util.AbstractSet: 
+  java.util.AbstractSet->>java.util.HashSet: 
+  java.util.HashSet->>java.util.LinkedHashSet: extends
+```
