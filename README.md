@@ -873,7 +873,8 @@ Greatest Element to Lowest Element.
 </ul>
 <h1></h1>
 <h1 align="center">  LinkedHashSet </h1>
-<h3>This class extends HashSet, but adds no members of its own. </h3>
+  
+<h3>This class extends HashSet, but adds no members of its own. LinkedHashSet is an ordered and sorted collection of HashSet. LinkedHashSet maintains the insertion order of the elements.It uses a doubly linked list to maintain the insertion order. LinkedHashSet  implement the Set interface like HashSet. </h3>
 
 ```mermaid
 
