@@ -69,7 +69,7 @@ graph TD;
     Collection-->Set;
     Set-->HashSet;
     Set-->SortedSet;
-    HashSet-->LinkedListSet;
+    HashSet-->LinkedHashSet;
     SortedSet-->NavigableSet;
     NavigableSet-->TreeSet;
     
