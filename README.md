@@ -846,6 +846,27 @@ Greatest Element to Lowest Element.
    <h2> </h2>
 </ul>
 <h1 align="center">  Comparator Interface on Tree Set  </h1>
+<ul>
+<h3> Comparator helps to find the sorting order used in the TreeSet objects ; for example, with the implementation of the Comparator interface.The methods provided by the interface are: </h3>
+
+<table>
+<tr>
+  <td colspan="2">Methods of the Comparator interface</td>
+</tr>
+<tr>
+ <td >Method</td>
+ <td >Does This</td>
+</tr>
+<tr>
+ <td >int compare(Object obj1,Object obj2) </td>
+ <td >It compares its two arguments.</td> 
+</tr>
+<tr>
+ <td >boolean equals(Object obj) </td>
+ <td >It specifies whether another object is equal to this comparator.</td> 
+</tr>
+</table>
+</ul>
 </ul>
 
 
