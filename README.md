@@ -832,6 +832,16 @@ Implemented From : java.util.NavigableSet
  IT will return set: [1,2,3,4,5,6]
  
  ````
+ 
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo16.java" >Descending Set[Navigable Set Interface]</a></h3></li>
+  
+```Syntax
+Implemented From : java.util.NavigableSet
+
+It makes the output of Set in Descending Order i.e. From ,
+Greatest Element to Lowest Element. 
+ 
+````
   <h2> </h2> 
    <h2> </h2>
 </ul>
