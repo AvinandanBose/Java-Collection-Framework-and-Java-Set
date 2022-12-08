@@ -866,6 +866,9 @@ Greatest Element to Lowest Element.
  <td >It specifies whether another object is equal to this comparator.</td> 
 </tr>
 </table>
+<ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/TreeSetDemo17.java" >Comparator Interface on Tree Set[Example]</a></h3></li>
+</ul>
 </ul>
 </ul>
 
