@@ -886,3 +886,12 @@ sequenceDiagram
   java.util.AbstractSet->>java.util.HashSet: 
   java.util.HashSet->>java.util.LinkedHashSet: extends
 ```
+<ul>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/LinkedHashSetDemo.java" >HashSet→LinkedHashSet[Example]</a></h3></li>
+<ul>
+<h2 align="center">  LinkedHashSet Functionality</h2>
+<ul>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/LinkedHashSet1.java" >LinkedHashSet Functionality[Examples]</a></h3></li>
+</ul>
+</ul>
+</ul>
