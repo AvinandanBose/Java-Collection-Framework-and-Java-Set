@@ -26,6 +26,32 @@ This is all about Java Collection.
 Collection: It is the top of the collection hierarchy. It supports basic grouping of elements.
 
 ```
+<h3>The Collection interface is the foundation upon which the Collections Framework is built because it must be implemented by any class that defines a collection.Collection is a generic interface that has this declaration:</h3>
+
+<h3 align="center">
+ 
+ ```Syntax
+ 
+ interface Collection<E>
+ 
+ ```
+
+</h3>
+
+<h3> Here E specifies the type of objects that the Collection will hold. Consider an example: </h3>
+
+<h3 align="center">
+ 
+ ```Syntax
+ 
+ Collection<String> co
+ 
+ ```
+
+</h3>
+
+<h3>The above example can be a List, a Set, or another kind of Collection.</h3>
+
 <ul>
 <ul>
 <h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/javacollection1.java" > Java Collection [Eg -1]</a></h3>
@@ -997,3 +1023,4 @@ sequenceDiagram
 </tr>
 </table>  
 </ul>
+<h3> <i><ins>Note: </ins></i> Collection , Set, SortedSet, Navigable Set are all interfaces and we cannot create their objects due their abstract nature.  </h3>
