@@ -896,5 +896,104 @@ sequenceDiagram
 </ul>
 </ul>
 <h1 align="center">  About Sorted Set Interface </h1>
+<ul>
+<h3>The Sorted Set interface Set extends Set and declares the behavior of a set sorted in ascending order. Sorted Set is a generic interface that has this declaration:
+
+ <h3 align="center">
+ 
+ ```Syntax
+ 
+ interface SortedSet<E>
+ 
+ ```
+
+ </h3>
+ 
+<h3> Here E specifies the type of objects that the Set will hold. </h3>
+
+<table>
+ <tr>
+    <th colspan="4">Interface</th>
+     <th >Methods</th>
+  
+</tr> 
+<tr>
+  <td colspan="4" rowspan="5" >SortedSet</td>
+  <td >first</td> 
+  
+</tr>
+<tr>
+ <td >last</td>   
+</tr>
+<tr>
+<td >headSet</td> 
+</tr>
+<tr>
+<td >tailSet</td> 
+</tr>
+<tr>
+<td >subSet</td> 
+</tr>
+</table>  
+</ul>
 
 <h1 align="center">  About Navigable Set Interface </h1>
+
+<ul>
+<h3>The NavigableSet interface extends SortedSet and declares the behavior of a collection that supports the retrieval of elements based on the closest match to a given value or values. NavigableSet is a generic interface that has this declaration : </h3>
+
+ <h3 align="center">
+ 
+ ```Syntax
+ 
+ interface NavigableSet<E>
+ 
+ ```
+
+ </h3>
+ 
+<h3> Here E specifies the type of objects that the Set will hold. </h3>
+
+<table>
+ <tr>
+    <th colspan="4">Interface</th>
+     <th >Methods</th>
+  
+</tr> 
+<tr>
+  <td colspan="4" rowspan="11" >NavigableSet</td>
+  <td >ceiling</td> 
+  
+</tr>
+<tr>
+ <td >floor</td>   
+</tr>
+<tr>
+<td >descendingIterator</td> 
+</tr>
+<tr>
+<td >descendingSet</td> 
+</tr>
+<tr>
+<td >headSet</td> 
+</tr>
+<tr>
+<td >tailSet</td> 
+</tr>
+<tr>
+<td >subSet</td> 
+</tr>
+<tr>
+<td >higher</td> 
+</tr>
+<tr>
+<td >lower</td> 
+</tr>
+<tr>
+<td >pollFirst</td> 
+</tr>
+<tr>
+<td >pollLast</td> 
+</tr>
+</table>  
+</ul>
