@@ -1024,3 +1024,60 @@ sequenceDiagram
 </table>  
 </ul>
 <h3> <i><ins>Note: </ins></i> Collection , Set, SortedSet, Navigable Set are all interfaces and we cannot create their objects due their abstract nature.  </h3>
+  
+<h1 align="center">  About AbstractCollection </h1>
+  
+<ul>
+  
+<h3>The AbstractCollection class provides an implementation of the Collection interface. It is used to implement an unmodifiable collection, for which one needs to only extend this AbstractCollection Class and implement only the iterator and the size methods. </h3>
+  
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/AbstractCollectionDemo1.java" >AbstractCollection[Example]</a></h3></li>
+  
+ ```Syntax
+  
+  abstract class AbstractCollection<E> extends Object implements Collection<E>
+  
+ ```
+  <table>
+ <tr>
+    <th colspan="4">Abstract Class</th>
+     <th >Methods</th>
+  
+</tr> 
+<tr>
+  <td colspan="4" rowspan="10" >AbstractCollection</td>
+  <td >Add</td> 
+  
+</tr>
+<tr>
+ <td >AddAll</td>   
+</tr>
+<tr>
+<td >Clear</td> 
+</tr>
+<tr>
+<td >Contains</td> 
+</tr>
+<tr>
+<td >ContainsAll</td> 
+</tr>
+<tr>
+<td >isEmpty</td> 
+</tr>
+<tr>
+<td >Iterator</td> 
+</tr>
+<tr>
+<td >Remove</td> 
+</tr>
+<tr>
+<td >Size</td> 
+</tr>
+<tr>
+<td >toArray</td> 
+</tr>
+</table>  
+</ul>  
+   
+</ul>
