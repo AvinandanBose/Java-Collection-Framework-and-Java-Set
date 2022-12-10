@@ -1048,7 +1048,7 @@ sequenceDiagram
  <th >Methods</th> 
 </tr> 
 <tr>
-  <td colspan="4" rowspan="10" >AbstractCollection</td>
+  <td colspan="4" rowspan="11" >AbstractCollection</td>
   <td >Add</td> 
   
 </tr>
@@ -1079,12 +1079,55 @@ sequenceDiagram
 <tr>
 <td >toArray</td> 
 </tr>
+<tr>
+<td >toString</td> 
+</tr>
 </table>    
    
 </ul>
 <h1 align="center">  About AbstractSet </h1>
 
+<h3>AbstractSet is an Abstract class in Java is a part of the Java Collection Framework which implements the Collection interface and extends the AbstractCollection class. It provides a skeletal implementation of the Set interface. </h3>
+
+```Syntax
+  
+  abstract class AbstractSet<E> extends AbstractCollection<E> implements Set<E>
+  
+ ```
+ <h3>Where E is the type of elements. </h3>
+ 
+ 
+ <table>
+ <tr>
+ <th colspan="4">Abstract Class</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="10" >AbstractSet</td>
+  <td >removeAll</td> 
+  
+</tr>
+<tr>
+  
+  <td >equals</td> 
+  
+</tr>
+<tr>
+  
+  <td >hashCode</td> 
+  
+</tr>
+</table>    
+
 <ul>
+
+<ul>
+ <ul>
+ <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/AbstractSetDemo1.java" >AbstractSet[Example]</a></h3></li>
+ </ul>
+ </ul>
+ 
+ <br>
 
 ```mermaid  
   
@@ -1095,10 +1138,19 @@ sequenceDiagram
     AbstractCollection-->|extends| AbstractSet;
     AbstractSet-->|extends| CopyOnWriteArraySet;
     AbstractSet-->|extends| HashSet;
+    HashSet-->|extends| LinkedHashSet;
     AbstractSet-->|extends| TreeSet;
     AbstractSet-->|extends| EnumSet;
   
 ```
+
+<h3>Hence we get two more types : </h3>
+<ul>
+<li><h3> 1. EnumSet </h3> </li>
+<li><h3> 2. CopyOnWriteArraySet </h3> </li>
+</ul>
     
 
 </ul>
+
+<h1 align="center">   EnumSet </h1>
