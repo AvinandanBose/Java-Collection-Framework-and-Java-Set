@@ -1083,3 +1083,22 @@ sequenceDiagram
    
 </ul>
 <h1 align="center">  About AbstractSet </h1>
+
+<ul>
+
+```mermaid  
+  
+ graph TD;
+    Collection-->|extends| Set;
+    Collection-->|implements| AbstractCollection;
+    Set-->|extends| AbstractSet;
+    AbstractCollection-->|extends| AbstractSet;
+    AbstractSet-->|extends| CopyOnWriteArraySet;
+    AbstractSet-->|extends| HashSet;
+    AbstractSet-->|extends| TreeSet;
+    AbstractSet-->|extends| EnumSet;
+  
+```
+    
+
+</ul>
