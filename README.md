@@ -1033,6 +1033,7 @@ sequenceDiagram
   
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/AbstractCollectionDemo1.java" >AbstractCollection[Example]</a></h3></li>
+</ul>
   
  ```Syntax
   
@@ -1077,7 +1078,6 @@ sequenceDiagram
 <tr>
 <td >toArray</td> 
 </tr>
-</table>  
-</ul>  
+</table>    
    
 </ul>
