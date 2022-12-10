@@ -1040,11 +1040,12 @@ sequenceDiagram
   abstract class AbstractCollection<E> extends Object implements Collection<E>
   
  ```
-  <table>
+ <h3>where E is the type of elements. </h3>
+ 
+ <table>
  <tr>
-    <th colspan="4">Abstract Class</th>
-     <th >Methods</th>
-  
+ <th colspan="4">Abstract Class</th>
+ <th >Methods</th> 
 </tr> 
 <tr>
   <td colspan="4" rowspan="10" >AbstractCollection</td>
