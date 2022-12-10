@@ -573,6 +573,54 @@ and the size of this collection.
 
 ````
 
+<li><h3>18. HashSet →equals</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo22.java" > Equals</a></h3></li>
+</ul>
+
+```Syntax
+
+From: java.util.AbstractSet
+
+Def: Compares the specified object with this set for equality. 
+Returns true if the given object is also a set, 
+the two sets have the same size, 
+and every member of the given set is contained in this set. 
+
+````
+
+<li><h3>19. HashSet →toString</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo23.java" > toString</a></h3></li>
+</ul>
+
+```Syntax
+
+From: java.util.AbstractCollection
+
+Def: Converts the set to string and returns the collection.
+
+````
+
+<li><h3>19. HashSet →hashCode</h3></li>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/HashSetDemo24.java" > HashCode</a></h3></li>
+</ul>
+
+```Syntax
+
+From: java.util.AbstractSet
+
+Def: Returns the hash code value for this set. 
+The hash code of a set is,
+defined to be the sum of the hash codes of the elements in the set, 
+where the hash code of a null element is defined to be zero. 
+
+````
+
 <h2>  </h2>
 
 </ul>
