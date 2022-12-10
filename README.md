@@ -1029,7 +1029,7 @@ sequenceDiagram
   
 <ul>
   
-<h3>The AbstractCollection class provides an implementation of the Collection interface. It is used to implement an unmodifiable collection, for which one needs to only extend this AbstractCollection Class and implement only the iterator and the size methods. </h3>
+<h3>The AbstractCollection class is an Abstract Class provides an implementation of the Collection interface. It is used to implement an unmodifiable collection, for which one needs to only extend this AbstractCollection Class and implement only the iterator and the size methods. </h3>
   
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/AbstractCollectionDemo1.java" >AbstractCollection[Example]</a></h3></li>
