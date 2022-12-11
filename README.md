@@ -1203,6 +1203,10 @@ sequenceDiagram
 
 <h1 align="center">   EnumSet </h1>
 <ul>
+<li> <h3> A specialized Set implementation for use with enum [Enumeration] types. </h3> </li> 
+<li> <h3> All of the elements in an enum set must come from a single enum type that is specified, explicitly or implicitly, when the set is created. </h3> </li> 
+<li> <h3> It extends AbstractSet class and implements Set Interface in Java. </h3> </li> 
+<li> <h3> EnumSet class is a member of the Java Collections Framework . </h3> </li> 
  <li> <h3> HashSet and TreeSet can also take the type of ENUM  and add ENUM constants to perform Set operations. </h3> </li> 
   <ul>
     <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo.java" >HashSet, Tree Set and EnumSet</a></h3></li>
