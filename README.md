@@ -1207,6 +1207,6 @@ sequenceDiagram
   <ul>
     <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo.java" >HashSet, Tree Set and EnumSet</a></h3></li>
    </ul>
-   <li> <h3> Enumset inherits methods from Collection. </h3> </li> 
+   <li> <h3> EnumSet inherits methods from Collection. </h3> </li> 
   
 </ul>
