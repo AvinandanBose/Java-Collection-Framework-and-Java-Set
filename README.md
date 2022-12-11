@@ -1214,7 +1214,7 @@ sequenceDiagram
  <li> <h3> Enum Set also had its Methods as listed below: </h3> </li>  
   
   
-   <table>
+ <table>
  <tr>
  <th colspan="4">Class</th>
  <th >Method/s</th> 
@@ -1261,6 +1261,15 @@ sequenceDiagram
 </tr>
 </table>
   
-  
+<li> <h3> Examples: </h3> </li> 
+<ul>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo1.java" >EnumSet→of</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo2.java" >EnumSet→allOf</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo3.java" >EnumSet→clone</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo4.java" >EnumSet→complementOf</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo5.java" >EnumSet→copyOf</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo6.java" >EnumSet→range</a></h3></li>
+<li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo7.java" >EnumSet→noneOf</a></h3></li>
+</ul>
   
 </ul>
