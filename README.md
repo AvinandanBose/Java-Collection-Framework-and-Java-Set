@@ -1211,5 +1211,56 @@ sequenceDiagram
 <ul>
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemoA.java" >EnumSet→Collection</a></h3></li>
 </ul>
+ <li> <h3> Enum Set also had its Methods as listed below: </h3> </li>  
+  
+  
+   <table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="10" >EnumSet</td>
+  <td >of</td> 
+  
+</tr>
+<tr>
+  
+  <td >allOf</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >clone</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >complementOf</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >copyOf</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >range</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >noneOf</td> 
+  
+</tr>
+</table>
+  
+  
   
 </ul>
