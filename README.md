@@ -1264,12 +1264,81 @@ sequenceDiagram
 <li> <h3> Examples: </h3> </li> 
 <ul>
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo1.java" >EnumSet→of</a></h3></li>
+
+
+```Syntax
+  
+  Creates an enum set initially containing the specified elements.
+  
+```
+ 
+
+ 
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo2.java" >EnumSet→allOf</a></h3></li>
+
+
+
+```Syntax
+  
+  Creates an enum set containing all of the elements in the specified element type.
+  
+ ```
+ 
+ 
+ 
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo3.java" >EnumSet→clone</a></h3></li>
+
+
+
+```Syntax
+  
+  Returns copy of a set.
+  
+ ```
+ 
+
+ 
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo4.java" >EnumSet→complementOf</a></h3></li>
+
+
+
+```Syntax
+  
+Creates an enum set with the same element type as the specified enum set, 
+initially containing all the elements of this type,
+that are not contained in the specified set.
+  
+```
+ 
+
+
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo5.java" >EnumSet→copyOf</a></h3></li>
+
+```Syntax
+  
+Creates an enum set with the same element type,
+as the specified enum set, 
+initially containing the same elements (if any).
+  
+```
+
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo6.java" >EnumSet→range</a></h3></li>
+
+```Syntax
+  
+Creates an enum set initially containing all of the elements,
+in the range defined by the two specified endpoints. 
+  
+```
+
 <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo7.java" >EnumSet→noneOf</a></h3></li>
+
+```Syntax
+  
+Creates an empty enum set with the specified element type. 
+  
+```
+
 </ul>
   
 </ul>
