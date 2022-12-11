@@ -1202,3 +1202,11 @@ sequenceDiagram
 </ul>
 
 <h1 align="center">   EnumSet </h1>
+<ul>
+ <li> <h3> HashSet and TreeSet can also take the type of ENUM  and add ENUM constants to perform Set operations. </h3> </li> 
+  <ul>
+    <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/EnumSetDemo.java" >HashSet, Tree Set and EnumSet</a></h3></li>
+   </ul>
+   <li> <h3> Enumset inherits methods from Collection. </h3> </li> 
+  
+</ul>
