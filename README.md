@@ -1183,12 +1183,16 @@ sequenceDiagram
     Collection-->|extends| Set;
     Collection-->|implements| AbstractCollection;
     Set-->|extends| AbstractSet;
+    Set-->|extends| SortedSet;
+    SortedSet-->|extends| NavigableSet;
+    NavigableSet-->|implements| ConcurrentSkiplistSet;
     AbstractCollection-->|extends| AbstractSet;
     AbstractSet-->|extends| CopyOnWriteArraySet;
     AbstractSet-->|extends| HashSet;
     HashSet-->|extends| LinkedHashSet;
     AbstractSet-->|extends| TreeSet;
     AbstractSet-->|extends| EnumSet;
+    AbstractSet-->|extends| ConcurrentSkiplistSet;
   
 ```
 
@@ -1196,6 +1200,7 @@ sequenceDiagram
 <ul>
 <li><h3> 1. EnumSet </h3> </li>
 <li><h3> 2. CopyOnWriteArraySet </h3> </li>
+<li><h3> 3. ConcurrentSkipListSet </h3> </li>
 </ul>
     
 
@@ -1346,3 +1351,7 @@ Creates an empty enum set with the specified element type.
 </ul>
   
 </ul>
+
+<h1 align="center">   CopyOnWriteArraySet </h1>
+
+<h1 align="center">   ConcurrentSkipListSet </h1>
