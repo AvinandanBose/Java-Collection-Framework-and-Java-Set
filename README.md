@@ -1196,7 +1196,7 @@ sequenceDiagram
   
 ```
 
-<h3>Hence we get two more types : </h3>
+<h3>Hence we get three more types : </h3>
 <ul>
 <li><h3> 1. EnumSet </h3> </li>
 <li><h3> 2. CopyOnWriteArraySet </h3> </li>
