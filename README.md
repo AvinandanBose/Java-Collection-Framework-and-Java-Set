@@ -1366,6 +1366,105 @@ Creates an empty enum set with the specified element type.
 <li> <h3> An Iterator of CopyOnWriteArraySet class can perform only read-only and should not perform the deletion, otherwise, we will get Run-time exception UnsupportedOperationException. </h3> </li> 
 <li> <h3> It is slower compared to HashSet since it is synchronized. </h3> </li> 
 
+ <table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="17" >CopyOnWriteArraySet</td>
+  <td >add</td> 
+  
+</tr>
+<tr>
+  
+  <td >addAll</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >clear</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >contains</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >containsAll</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >equals</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >forEach</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >isEmpty</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >iterator</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > remove</td> 
+  
+</tr>
+<tr>
+  
+  <td > removeAll</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > removeIf</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > retainAll</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >size</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >spliterator</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >toArray</td> 
+  
+</tr>
+</table>
 
 </ul>
 <h1></h1>
