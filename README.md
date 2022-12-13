@@ -1539,3 +1539,13 @@ Creates an empty enum set with the specified element type.
 </ul>
 <h1></h1>
 <h1 align="center">   ConcurrentSkipListSet </h1>
+<ul>
+  <li> <h3> The ConcurrentSkipListSet class in Java is a part of the Java Collection Framework .  </h3> </li> 
+   <li> <h3> The ConcurrentSkipListSet class in Java implements the Collection interface and the AbstractSet class .  </h3> </li> 
+  <li> <h3>The ConcurrentSkipListSet class is a scalable concurrent NavigableSet implementation based on a ConcurrentSkipListMap.  </h3> </li> 
+  <li> <h3> The elements of the ConcurrentSkipListSet are kept sorted according to their natural ordering, or by a Comparator provided at set creation time, depending on which constructor is used.  </h3> </li> 
+  
+  <li> <h3> The ConcurrentSkipListSet class implements Serializable, Cloneable, Iterable, Collection, NavigableSet, Set, SortedSet interfaces. </h3> </li>
+  <li> <h3> The ConcurrentSkipListSet  does not allow null elements, because null arguments and return values cannot be reliably distinguished from the absence of elements. </h3> </li>
+  <li> <h3> The ConcurrentSkipListSet is thread-safe. </h3> </li>
+</ul>
