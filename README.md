@@ -1354,4 +1354,19 @@ Creates an empty enum set with the specified element type.
 
 <h1 align="center">   CopyOnWriteArraySet </h1>
 
+<ul>
+<li> <h3> To use this class, we need to import it from java.util.concurrent package.  </h3> </li> 
+<li> <h3> CopyOnWriteArraySet is a member of the Java Collections Framework. </h3> </li> 
+<li> <h3> It is a Set that uses an internal CopyOnWriteArrayList for all of its operations. </h3> </li> 
+<li> <h3>  It was introduced in JDK 1.5, we can say that it is a thread-safe  version of Set. </h3> </li> 
+<li> <h3> That is Multiple Threads are able to perform update operations simultaneously but for every update operation, a separate cloned copy is created.  </h3> </li> 
+<li> <h3>  While one thread iterating the Set, other threads can perform updation. </h3> </li> 
+<li> <h3>  Iterators returned are fail-safe. </h3> </li> 
+<li> <h3> It is synchronized. </h3> </li> 
+<li> <h3> An Iterator of CopyOnWriteArraySet class can perform only read-only and should not perform the deletion, otherwise, we will get Run-time exception UnsupportedOperationException. </h3> </li> 
+<li> <h3> It is slower compared to HashSet since it is synchronized. </h3> </li> 
+
+
+</ul>
+
 <h1 align="center">   ConcurrentSkipListSet </h1>
