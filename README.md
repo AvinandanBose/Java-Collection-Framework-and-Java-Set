@@ -1471,6 +1471,58 @@ Creates an empty enum set with the specified element type.
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/copyonwritearrayset1.java" >CopyOnWriteArraySet→Methods</a></h3></li>
 </ul>
+
+ <table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th colspan="4">Inherited From</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="17" >CopyOnWriteArraySet</td>
+  <td colspan="4" rowspan="17" >AbstractSet</td>
+  <td >hashCode</td> 
+  
+</tr>
+
+</table>
+
+
+ <table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th colspan="4">Inherited From</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="17" >CopyOnWriteArraySet</td>
+  <td colspan="4" rowspan="17" >AbstractCollection</td>
+  <td >toString</td> 
+  
+</tr>
+
+</table>
+
+ <table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th colspan="4">Inherited From</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="17" >CopyOnWriteArraySet</td>
+  <td colspan="4" rowspan="17" >Collection</td>
+  <td >Stream</td> 
+  
+</tr>
+
+<tr>
+ 
+  <td >Parallel Stream</td> 
+  
+</tr>
+
+</table>
 </ul>
 <h1></h1>
 <h1 align="center">   ConcurrentSkipListSet </h1>
