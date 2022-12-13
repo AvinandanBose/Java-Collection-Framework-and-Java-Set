@@ -79,19 +79,6 @@ public class copyonwritearrayset1 {
 
         }
 
-        // stream
-
-        set.stream().forEach(System.out::println);
-        set.stream().forEach((Integer i) -> {
-            System.out.println(i);
-        });
-
-        // parallelStream
-
-        set.parallelStream().forEach(System.out::println);
-        set.parallelStream().forEach((Integer i) -> {
-            System.out.println(i);
-        });
 
         // removeIf - 12
 
