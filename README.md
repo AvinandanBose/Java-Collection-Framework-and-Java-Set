@@ -1487,6 +1487,10 @@ Creates an empty enum set with the specified element type.
 
 </table>
 
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/copyonwritearrayset3.java" >CopyOnWriteArraySet→AbstractSet→hashCode</a></h3></li>
+</ul>
+
 
  <table>
  <tr>
@@ -1502,6 +1506,11 @@ Creates an empty enum set with the specified element type.
 </tr>
 
 </table>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/copyonwritearrayset4.java" >CopyOnWriteArraySet→AbstractCollection→toString</a></h3></li>
+</ul>
+
 
  <table>
  <tr>
@@ -1523,6 +1532,10 @@ Creates an empty enum set with the specified element type.
 </tr>
 
 </table>
+
+<ul>
+  <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/copyonwritearrayset4.java" >CopyOnWriteArraySet→Collection→Methods</a></h3></li>
+</ul>
 </ul>
 <h1></h1>
 <h1 align="center">   ConcurrentSkipListSet </h1>
