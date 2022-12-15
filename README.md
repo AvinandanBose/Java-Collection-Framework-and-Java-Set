@@ -1564,6 +1564,19 @@ Creates an empty enum set with the specified element type.
   <td >add</td> 
   
 </tr>
+
+<tr>
+  
+  <td > ceiling</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > floor</td> 
+  
+</tr>
+     
 <tr>
   
   <td > clear</td> 
@@ -1612,11 +1625,7 @@ Creates an empty enum set with the specified element type.
   
 </tr>
 
-<tr>
-  
-  <td > floor</td> 
-  
-</tr>
+
 <tr>
   
   <td > headSet</td> 
