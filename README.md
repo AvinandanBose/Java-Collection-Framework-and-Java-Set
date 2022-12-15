@@ -1758,4 +1758,44 @@ Creates an empty enum set with the specified element type.
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/ConcurrentSkipListSet2.java">ConcurrentSkipListSet→AbstractCollection→Methods</a></h3></li>
 </ul>
 
+<table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th colspan="4">Inherited From</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="17" >ConcurrentSkipListSet</td>
+  <td colspan="4" rowspan="17" >Set</td>
+  <td >addAll</td> 
+  
+</tr>
+   
+<tr>
+   <td >containsAll</td> 
+  
+</tr>
+
+ 
+<tr>
+   <td >retainAll</td> 
+  
+</tr>
+   
+<tr>
+   <td >toArray</td> 
+  
+</tr>
+
+<tr>
+   <td >toArray(T[] a)</td> 
+  
+</tr>
+
+<tr>
+   <td >hashCode</td> 
+  
+</tr>
+  
+</table>
 </ul>
