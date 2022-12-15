@@ -1802,4 +1802,31 @@ Creates an empty enum set with the specified element type.
 <ul>
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/ConcurrentSkipListSet3.java">ConcurrentSkipListSet→Set→Methods</a></h3></li>
 </ul>
+
+<table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th colspan="4">Inherited From</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="17" >ConcurrentSkipListSet</td>
+  <td colspan="4" rowspan="17" >Collection</td>
+  <td >parallelStream</td> 
+  
+</tr>
+   
+<tr>
+   <td >Stream</td> 
+  
+</tr>
+
+ 
+<tr>
+   <td >removeIf</td> 
+  
+</tr>
+   
+  
+</table>
 </ul>
