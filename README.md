@@ -1741,6 +1741,11 @@ Creates an empty enum set with the specified element type.
 </tr>
 
 <tr>
+   <td >toArray(T[] a)</td> 
+  
+</tr>
+
+<tr>
    <td >toString</td> 
   
 </tr>
