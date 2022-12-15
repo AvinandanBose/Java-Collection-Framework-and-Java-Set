@@ -9,7 +9,7 @@ class copyonwritearrayset4 {
         set.add(2);
         set.add(3);
         set.add(4);
-        // hashCode
+        // toString
         System.out.println(set.toString());                              
     }
     
