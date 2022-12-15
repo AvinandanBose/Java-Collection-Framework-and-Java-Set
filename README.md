@@ -1628,25 +1628,26 @@ Creates an empty enum set with the specified element type.
 
 <tr>
   
+  <td >last</td> 
+  
+</tr>
+
+
+<tr>
+  
   <td > headSet</td> 
   
 </tr>
 
 <tr>
   
+  <td > tailSet</td> 
+  
+</tr>
+
+<tr>
+  
   <td > higher</td> 
-  
-</tr>
-
-<tr>
-  
-  <td > isEmpty</td> 
-  
-</tr>
-
-<tr>
-  
-  <td >last</td> 
   
 </tr>
 
@@ -1700,10 +1701,9 @@ Creates an empty enum set with the specified element type.
 
 <tr>
   
-  <td > tailSet</td> 
+  <td > isEmpty</td> 
   
 </tr>
-   
 
 </table>
 
