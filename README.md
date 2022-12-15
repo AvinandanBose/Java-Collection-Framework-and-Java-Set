@@ -1548,4 +1548,152 @@ Creates an empty enum set with the specified element type.
   <li> <h3> The ConcurrentSkipListSet class implements Serializable, Cloneable, Iterable, Collection, NavigableSet, Set, SortedSet interfaces. </h3> </li>
   <li> <h3> The ConcurrentSkipListSet  does not allow null elements, because null arguments and return values cannot be reliably distinguished from the absence of elements. </h3> </li>
   <li> <h3> The ConcurrentSkipListSet is thread-safe. </h3> </li>
+
+ <h2 align= "center" > The ConcurrentSkipListSet Methods :  </h2> 
+
+
+   <table>
+ <tr>
+ <th colspan="4">Class</th>
+ <th >Method/s</th> 
+</tr> 
+<tr>
+  <td colspan="4" rowspan="30" >ConcurrentSkipListSet</td>
+  <td >add</td> 
+  
+</tr>
+<tr>
+  
+  <td > clear</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td > clone</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >comparator</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >contains</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >descendingIterator</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >descendingSet</td> 
+  
+</tr>
+     
+<tr>
+  
+  <td >equals</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >first</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > floor</td> 
+  
+</tr>
+<tr>
+  
+  <td > headSet</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > higher</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > isEmpty</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >last</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >lower</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >pollFirst</td> 
+  
+</tr>
+
+<tr>
+  
+  <td >pollLast</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > remove</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > removeAll</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > size</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > spliterator</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > subSet</td> 
+  
+</tr>
+
+<tr>
+  
+  <td > tailSet</td> 
+  
+</tr>
+   
+
+</table>
+
 </ul>
