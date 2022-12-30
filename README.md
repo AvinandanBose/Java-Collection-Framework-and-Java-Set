@@ -1859,3 +1859,4 @@ Creates an empty enum set with the specified element type.
   <li><h3><a href= "https://github.com/AvinandanBose/JavaCollectionFramework/blob/main/ConcurrentSkipListSet5.java">ConcurrentSkipListSet→Iterable & Iterator→Methods</a></h3></li>
 </ul>
 </ul>
+<h1>👉<a href= "https://github.com/AvinandanBose/JavaGeneric">Set implemention in Java Generics </h1>
